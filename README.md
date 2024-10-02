@@ -30,6 +30,5 @@ My focus is on continuously learning and applying my knowledge to real-world pro
 ## Contact
 
 - Email: stick.martinez@icesi.edu.co
-- LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
 - GitHub: [github.com/Stixkl](https://github.com/Stixkl)
 
